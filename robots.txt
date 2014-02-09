@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://1reza.github.io/age-of-ignorance/sitemap.xml 
+Sitemap: http://iranjbar.com/sitemap.xml 

@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://1reza.github.io/age-of-ignorance/atom.xml" rel="self"/>
-  <link href="http://1reza.github.io/age-of-ignorance/"/>
-  <updated>2014-02-09T12:37:23+03:30</updated>
-  <id>http://1reza.github.io/age-of-ignorance/</id>
+  <title><![CDATA[Age of Ignorance]]></title>
+  <link href="http://iranjbar.com/atom.xml" rel="self"/>
+  <link href="http://iranjbar.com/"/>
+  <updated>2014-02-09T12:40:31+03:30</updated>
+  <id>http://iranjbar.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Reza]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://iranjbar.com/blog/2014/02/09/hello-world/"/>
+    <updated>2014-02-09T12:39:55+03:30</updated>
+    <id>http://iranjbar.com/blog/2014/02/09/hello-world</id>
+    <content type="html"><![CDATA[<p>This is my first post in english and i’m newbie :| , so if there is some mistakes please forgive me.</p>
+
+<p>My name is Reza Ranjbar, Im 32 and single. I born and grown up in iran as a muslim, But not anymore :|</p>
+
+<p>I’m a gamer, i have a ps3 and <code>Killzone1-3</code>. <code>killzone1</code> actually is a ps2 game but with <code>ps3-classic</code> you can run it on ps3.</p>
+
+<p>I love linux, i’m not expert but i’m learning. <a href="http://www.ubuntu.com" title="Ubuntu">Ubuntu</a> was my first distro like most of iranian and now i’m using <a href="http://www.archlinux.org" title="Arch linux">Archlinux</a> with Openbox :/</p>
+]]></content>
+  </entry>
   
 </feed>
